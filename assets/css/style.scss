@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
 
 .html,
 body {
@@ -9,7 +10,7 @@ body {
 }
 #insert-coins {
   font-family: 'Orbitron', sans-serif;
-  color: #AF8200;
+  color: #ffcc00;
   text-align: center;
   font-size: 4em;
 }
